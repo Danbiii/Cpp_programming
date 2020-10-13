@@ -2,4 +2,4 @@
 ## C++ programming & Algorithm
 
 Algorithm: programmers and baekjoon <br>
-study: 윤성우 열혈 C++
+study: C++ program class in Kookmin University
